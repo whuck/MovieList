@@ -1,0 +1,17 @@
+C:\Users\Wilhab\Desktop\skool\MovieList\bin\Debug\netcoreapp3.1\MovieList.exe
+C:\Users\Wilhab\Desktop\skool\MovieList\bin\Debug\netcoreapp3.1\MovieList.deps.json
+C:\Users\Wilhab\Desktop\skool\MovieList\bin\Debug\netcoreapp3.1\MovieList.runtimeconfig.json
+C:\Users\Wilhab\Desktop\skool\MovieList\bin\Debug\netcoreapp3.1\MovieList.runtimeconfig.dev.json
+C:\Users\Wilhab\Desktop\skool\MovieList\bin\Debug\netcoreapp3.1\MovieList.dll
+C:\Users\Wilhab\Desktop\skool\MovieList\bin\Debug\netcoreapp3.1\MovieList.pdb
+C:\Users\Wilhab\Desktop\skool\MovieList\bin\Debug\netcoreapp3.1\NLog.dll
+C:\Users\Wilhab\Desktop\skool\MovieList\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+C:\Users\Wilhab\Desktop\skool\MovieList\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+C:\Users\Wilhab\Desktop\skool\MovieList\obj\Debug\netcoreapp3.1\MovieList.csprojAssemblyReference.cache
+C:\Users\Wilhab\Desktop\skool\MovieList\obj\Debug\netcoreapp3.1\MovieList.AssemblyInfoInputs.cache
+C:\Users\Wilhab\Desktop\skool\MovieList\obj\Debug\netcoreapp3.1\MovieList.AssemblyInfo.cs
+C:\Users\Wilhab\Desktop\skool\MovieList\obj\Debug\netcoreapp3.1\MovieList.csproj.CoreCompileInputs.cache
+C:\Users\Wilhab\Desktop\skool\MovieList\obj\Debug\netcoreapp3.1\MovieList.csproj.CopyComplete
+C:\Users\Wilhab\Desktop\skool\MovieList\obj\Debug\netcoreapp3.1\MovieList.dll
+C:\Users\Wilhab\Desktop\skool\MovieList\obj\Debug\netcoreapp3.1\MovieList.pdb
+C:\Users\Wilhab\Desktop\skool\MovieList\obj\Debug\netcoreapp3.1\MovieList.genruntimeconfig.cache
