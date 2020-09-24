@@ -26,7 +26,7 @@ namespace movielist
             //fire up logger obj, instantiate lists, filename
             path = Directory.GetCurrentDirectory() + "\\nlog.config";
             var logger = NLog.Web.NLogBuilder.ConfigureNLog(path).GetCurrentClassLogger();
-            fileName = "smallmovies.csv";
+            fileName = "movies.csv";
             movieList = new ArrayList();
             idList = new ArrayList();
             genreList = new ArrayList();
